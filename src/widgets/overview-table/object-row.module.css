@@ -1,0 +1,14 @@
+.multipleRow {
+  border-bottom: none;
+
+  td {
+    padding-bottom: rem(2px);
+  }
+}
+
+.badge {
+  min-width: rem(112px);
+  height: auto;
+  padding: rem(4px);
+  line-height: 1;
+}
